@@ -10,12 +10,12 @@ Cheers!
 
 ### Version Control
 
-##### Version 1.0: Key content for inddex.html
-##### Version 1.1: Added url link into README.md
-##### Version 1.2: Added Bootstrap css 'btn text-muted blockquote uppercase' tags in index.html
-##### Version 1.3: Changed feature buttons from p to button
-##### Version 1.4: Added Bootstrap Table Challenge
-##### Version 1.5: Amended Bootstrap button tags
+##### V1.0: Key content for inddex.html
+##### V1.1: Added url link into README.md
+##### V1.2: Added Bootstrap css 'btn text-muted blockquote uppercase' tags in index.html
+##### V1.3: Changed feature buttons from p to button
+##### V1.4: Added Bootstrap Table Challenge
+##### V1.5: Amended Bootstrap button tags
 ##### V1.6: Added class container to body
 
 ### Known Issues
