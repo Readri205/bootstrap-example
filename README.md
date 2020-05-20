@@ -7,3 +7,6 @@ This is my learning example for applying the Bootstrap Framework for building we
 [link to the website](xxx)
 
 Cheers!
+
+Version Control
+Version 1.0: Key content for inddex.html
