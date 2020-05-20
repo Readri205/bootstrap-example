@@ -15,7 +15,8 @@ Cheers!
 ##### Version 1.2: Added Bootstrap css 'btn text-muted blockquote uppercase' tags in index.html
 ##### Version 1.3: Changed feature buttons from p to button
 ##### Version 1.4: Added Bootstrap Table Challenge
-##### Version 1.5: Amended Bootstrap button code
+##### Version 1.5: Amended Bootstrap button tags
+##### V1.6: Added class container to body
 
 ### Known Issues
 
