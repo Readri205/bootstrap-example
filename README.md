@@ -15,8 +15,9 @@ Cheers!
 ##### Version 1.2: Added Bootstrap css 'btn text-muted blockquote uppercase' tags in index.html
 ##### Version 1.3: Changed feature buttons from p to button
 ##### Version 1.4: Added Bootstrap Table Challenge
+##### Version 1.5: Amended Bootstrap button code
 
 ### Known Issues
 
-##### 1. Read More buttons do not appear as buttons.
+##### 1. Read More buttons do not appear as buttons - now fixed in V1.5.
 ##### 2. Web page does not display a left margin.
