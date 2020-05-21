@@ -17,8 +17,9 @@ Cheers!
 ##### V1.4: Added Bootstrap Table Challenge
 ##### V1.5: Amended Bootstrap button tags
 ##### V1.6: Added class container to body
+##### V1.7: Fixed margin error and added Grid Layout Features
 
 ### Known Issues
 
 ##### 1. Read More buttons do not appear as buttons - now fixed in V1.5.
-##### 2. Web page does not display a left margin.
+##### 2. Web page does not display a left margin - now fixed in V1.7.
