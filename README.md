@@ -24,6 +24,7 @@ Cheers!
 ##### V2.1: Added Javascript components in and included a navbar.
 ##### V2.2: Added Modal Functionality and Submit Form.
 ##### V3.0: Updated for Bootstrap Amends in CSS for Callout & Alerts.
+##### V3.1: Updates for Features Section.
 
 ### Known Issues
 
