@@ -1,4 +1,4 @@
-## This is my first Bootsrap Website!
+## This is my first Bootstrap Website!
 
 Welcome All!
 
@@ -10,7 +10,7 @@ Cheers!
 
 ### Version Control
 
-##### V1.0: Key content for inddex.html.
+##### V1.0: Key content for index.html.
 ##### V1.1: Added url link into README.md.
 ##### V1.2: Added Bootstrap css 'btn text-muted blockquote uppercase' tags in index.html.
 ##### V1.3: Changed feature buttons from p to button.
@@ -20,6 +20,7 @@ Cheers!
 ##### V1.7: Fixed margin error and added Grid Layout Features.
 ##### V1.8: Updated for navbar features for mobile and desktop.
 ##### V1.9: Added images, icons and alert bar.
+##### V2.0: Amended README.md for spelling errors.
 
 ### Known Issues
 
