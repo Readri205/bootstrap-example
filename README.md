@@ -4,7 +4,7 @@ Welcome All!
 
 This is my learning example for applying the Bootstrap Framework for building websites.
 
-[link to the website](https://readri205.github.io/bootstrap-example/)
+[link to the website](https://readri205.github.io/bootstrap-example/ target="_blank")
 
 Cheers!
 
