@@ -13,7 +13,7 @@ Cheers!
 ##### V1.0: Key content for index.html.
 ##### V1.1: Added url link into README.md.
 ##### V1.2: Added Bootstrap css 'btn text-muted blockquote uppercase' tags in index.html.
-##### V1.3: Changed feature buttons from p to button.
+##### V1.3: Changed feature buttons from p to button (now reverted).
 ##### V1.4: Added Bootstrap Table Challenge.
 ##### V1.5: Amended Bootstrap button tags.
 ##### V1.6: Added class container to body.
@@ -21,6 +21,7 @@ Cheers!
 ##### V1.8: Updated for navbar features for mobile and desktop.
 ##### V1.9: Added images, icons and alert bar.
 ##### V2.0: Amended README.md for spelling errors.
+##### V2.1: Added Javascript components in and included a navbar.
 
 ### Known Issues
 
