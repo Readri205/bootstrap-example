@@ -22,6 +22,7 @@ Cheers!
 ##### V1.9: Added images, icons and alert bar.
 ##### V2.0: Amended README.md for spelling errors.
 ##### V2.1: Added Javascript components in and included a navbar.
+##### V2.2: Added Modal Functionality and Submit Form.
 
 ### Known Issues
 
