@@ -19,6 +19,7 @@ Cheers!
 ##### V1.6: Added class container to body.
 ##### V1.7: Fixed margin error and added Grid Layout Features.
 ##### V1.8: Updated for navbar features for mobile and desktop.
+##### V1.9: Added images, icons and alert bar.
 
 ### Known Issues
 
