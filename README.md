@@ -23,6 +23,7 @@ Cheers!
 ##### V2.0: Amended README.md for spelling errors.
 ##### V2.1: Added Javascript components in and included a navbar.
 ##### V2.2: Added Modal Functionality and Submit Form.
+##### V3.0: Updated for Bootstrap Amends in CSS for Callout & Alerts.
 
 ### Known Issues
 
